@@ -5,7 +5,7 @@ UNIQUE Word Count: Counts unique words based on user selection.
 UPPER Case Word Count: Counts words composed entirely of uppercase letters.
 LOWER Case Word Count: Counts words composed entirely of lowercase letters.
 SPECIAL Character Count: Counts specified special characters like (),./*-.
-NUMBERS Count: Counts numeric characters in the text (0-9). 15
+NUMBERS Count: Counts numeric characters in the text (0-9).
 
 Users can choose to include unique words in the count through a dialog interface.
 Results are displayed in a summary dialog, providing a clear overview of the text is composition.
