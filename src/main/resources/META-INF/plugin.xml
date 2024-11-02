@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>org.example.countwords</id>
+    <name>Word Count</name>
+    <version>1.0</version>
+    <vendor email="your_email@example.com" />
+
+    <description>
+        A plugin that counts the number of words in the current editor file.
+    </description>
+
+    <actions>
+        <action id="WordCountAction" class="org.example.countwords.WordCountAction" text="Count Words">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+    </actions>
+</idea-plugin>
